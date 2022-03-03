@@ -18,7 +18,7 @@
     "vue-quill-editor": "^3.0.6"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier": "^8.5.0",
     "prettier": "^2.5.1"
   }
 }
