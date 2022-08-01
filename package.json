@@ -11,7 +11,7 @@
   "dependencies": {
     "@nuxtjs/auth-next": "^5.0.0-1641419856.31900b3",
     "@nuxtjs/axios": "^5.13.6",
-    "core-js": "^3.20.2",
+    "core-js": "^3.24.1",
     "nuxt": "^2.15.7",
     "quill-emoji": "^0.2.0",
     "quill-emoji-vue": "^0.1.5",
